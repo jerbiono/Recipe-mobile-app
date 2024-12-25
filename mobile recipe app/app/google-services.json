@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041122534934",
+    "project_id": "mobproject-fb40b",
+    "storage_bucket": "mobproject-fb40b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041122534934:android:48bc9416fbf7ce34d6b737",
+        "android_client_info": {
+          "package_name": "com.example.mobproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs_g7WP3_vdfRDKYSrb4GwD7YhtqnWVSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

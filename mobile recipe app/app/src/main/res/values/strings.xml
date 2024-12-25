@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Projet_Mobile</string>
+    <string name="mail">Mail Address</string>
+    <string name="connexion">connexion</string>
+    <string name="password">password</string>
+    <string name="name">Hadj youssef Nader</string>
+    <string name="matricule">id : 54685</string>
+    <string name="groupe">E12</string>
+    <string name="signup_page">Sign Up</string>
+    <string name="login_page">Log in</string>
+    <string name="home_page">Home page</string>
+    <string name="about">about</string>
+    <string name="favorite_list">favorite list</string>
+    <string name="add_comment_page">add comment</string>
+    <string name="list_comments_page">list comments</string>
+
+
+
+</resources>
